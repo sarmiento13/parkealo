@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:viaje_easy/routes/app_routes.dart';
+import 'package:parkealo/routes/app_routes.dart';
 
 void main() => runApp(const MyApp());
 
